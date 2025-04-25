@@ -6,11 +6,11 @@
 
 </div>
 
+<div align="center"><a href="https://dovyx.github.io/id/91b4x0jrc"><img src="https://github.com/user-attachments/assets/9de7fe4b-1bc9-40e1-8644-58f89d5ecad4" height="80"></a></div>
+
 Overlay custom crosshairs on every game you play.
 
 Choose from thousands of unique crosshairs created by the Crosshair X community or design your own using the designer. 
-
-<div align="center"><a href="https://dovyx.github.io/id/91b4x0jrc"><img src="https://github.com/user-attachments/assets/9de7fe4b-1bc9-40e1-8644-58f89d5ecad4" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
